@@ -34,6 +34,7 @@ if(document.getElementById("zxczxc")==null)
         var link = document.createElement("a")
         link.setAttribute("href", img_url);
         link.setAttribute("download","");
+        link.setAttribute("title","⚠ Watch Full Video Before Download to Avoid Errors");
         link.appendChild(btn)
          // element.appendChild(btn);
         insertAfter(element,link)
