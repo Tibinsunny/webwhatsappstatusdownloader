@@ -1,4 +1,4 @@
-## Status Downloader-2020 ## 🚉   
+## Status Downloader-2020 🚉   
 This is a Browser Addon which helps web.whatsapp.com users to download status.     
 
 ## Installing Extension 🛠⚒ : ##
@@ -17,4 +17,11 @@ Extension is loaded now.❤
 ## Usage 🚉 ##
 Go to web.whatsapp.com and you can find a download button on the top left next to emoji button.
 Click on it and Boom🎇🎇
+
+## Screenshots
+![Image Failed](screenshots/display.png)    
+New Button helps you to download whatasapp statuses 📩
+
+![Image Failed](screenshots/display1.png) 
+
 
