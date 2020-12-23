@@ -1,7 +1,7 @@
-# Status Downloader-2020 🚉   
+## Status Downloader-2020 ## 🚉   
 This is a Browser Addon which helps web.whatsapp.com users to download status.     
 
-# Installing Extension 🛠⚒ :
+## Installing Extension 🛠⚒ : ##
 
 1:Open the Extension Manager by following:   
 Kebab menu(three vertical dots) -> More Tools -> Extensions        
@@ -14,7 +14,7 @@ Note:"If the developer mode is not turned on, turn it on by clicking the toggle 
 
 Extension is loaded now.❤  
 
-# Usage 🚉
+## Usage 🚉 ##
 Go to web.whatsapp.com and you can find a download button on the top left next to emoji button.
 Click on it and Boom🎇🎇
 
