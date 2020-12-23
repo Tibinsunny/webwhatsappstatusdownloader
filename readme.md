@@ -19,9 +19,9 @@ Go to web.whatsapp.com and you can find a download button on the top left next t
 Click on it and Boom🎇🎇
 
 ## Screenshots
-![Image Failed](/screenshots/display.png)    
+![Image Failed](/screenshots/display.PNG)    
 New Button helps you to download whatasapp statuses 📩
 
-![Image Failed](/screenshots/display1.png)    
+![Image Failed](/screenshots/display1.PNG)    
 
 
