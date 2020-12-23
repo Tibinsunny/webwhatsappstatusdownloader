@@ -22,6 +22,6 @@ Click on it and Boom🎇🎇
 ![Image Failed](/screenshots/display.PNG)    
 New Button helps you to download whatasapp statuses 📩
 
-![Image Failed](/screenshots/display1.PNG)    
+![Image Failed](/screenshots/display2.PNG)    
 
 
