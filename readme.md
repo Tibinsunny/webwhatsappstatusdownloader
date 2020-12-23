@@ -20,9 +20,11 @@ Click on it and Boom🎇🎇
 
 ## Screenshots    
 New Button helps you to download whatasapp statuses 📩    
+
 ![Image Failed](/screenshots/display.PNG)    
 
-Below is the Popup HTML Interface 📲📲        
+Below is the Popup HTML Interface 📲📲    
+       
 ![Image Failed](/screenshots/display2.PNG)  
 
 
