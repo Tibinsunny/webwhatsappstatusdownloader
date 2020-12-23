@@ -18,10 +18,11 @@ Extension is loaded now.❤
 Go to web.whatsapp.com and you can find a download button on the top left next to emoji button.
 Click on it and Boom🎇🎇
 
-## Screenshots
+## Screenshots    
+New Button helps you to download whatasapp statuses 📩    
 ![Image Failed](/screenshots/display.PNG)    
-New Button helps you to download whatasapp statuses 📩
 
+Below is the Popup HTML Interface
 ![Image Failed](/screenshots/display2.PNG)    
 
 
