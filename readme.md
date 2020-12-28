@@ -15,7 +15,7 @@ Note:"If the developer mode is not turned on, turn it on by clicking the toggle 
 Extension is loaded now.❤  
 
 ## Usage 🚉 ##
-Go to web.whatsapp.com and you can find a download button on the top left next to emoji button.
+Go to web.whatsapp.com and you can find a download button on the bottom left next to emoji button.
 Click on it and Boom🎇🎇
 
 ## Screenshots    
