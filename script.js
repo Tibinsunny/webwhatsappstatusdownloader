@@ -11,12 +11,12 @@ setInterval(function(){
    //Check if the Element is already added or not 
 if(document.getElementById("whatsapp-web-id-created")==null){
    //get the location to add the Download Icon
-    let element=((document.getElementsByClassName("iEDES"))[0])
+    let element=((document.getElementsByClassName("_35Bca"))[0])
     //check if the status is Video or Image
-     if( ((document.getElementsByClassName("_2M4qA"))[0]))
+     if( ((document.getElementsByClassName("_19K91"))[0]))
      {
 
-         img_url=((document.getElementsByClassName("_2M4qA")[0].children)[0]).currentSrc
+         img_url=((document.getElementsByClassName("_19K91")[0].children)[0]).currentSrc
       
      }
      else 
